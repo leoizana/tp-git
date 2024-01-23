@@ -1,4 +1,4 @@
-# Mon site pour mon portfolio.
+# Mon site pour mon TP-GIT.
 
 ##  Pour le cloner 
 
